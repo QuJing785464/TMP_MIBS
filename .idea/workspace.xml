@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78169057-a2bd-4310-962a-a8588878479c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1th0ylpvsnl56x9oByy1apqxr47" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\TMP-MIBS\data\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Indemendent_mul">
+    <configuration name="GetSamples_mul" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TMP-MIBS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/GetSamples_mul.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Indemendent_binary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TMP-MIBS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/Indemendent_binary.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Indemendent_mul" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TMP-MIBS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/Indemendent_mul.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="N_Fold_binary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TMP-MIBS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\TMP-MIBS\code\N_Fold_binary.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="N_Fold_mul" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TMP-MIBS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/N_Fold_mul.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Indemendent_mul" />
+        <item itemvalue="Python.N_Fold_mul" />
+        <item itemvalue="Python.GetSamples_mul" />
+        <item itemvalue="Python.Indemendent_binary" />
+        <item itemvalue="Python.N_Fold_binary" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78169057-a2bd-4310-962a-a8588878479c" name="Default Changelist" comment="" />
+      <created>1623206270420</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623206270420</updated>
+      <workItem from="1623206279899" duration="6176000" />
+      <workItem from="1623323127467" duration="272000" />
+      <workItem from="1623323426525" duration="2635000" />
+      <workItem from="1623328874847" duration="3458000" />
+      <workItem from="1623730946457" duration="755000" />
+      <workItem from="1623826009726" duration="14232000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="19" key="#Deployment" timestamp="1623826918065">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="233" y="19" key="#Deployment/0.0.1280.720@0.0.1280.720" timestamp="1623826918065" />
+    <state x="93" y="93" width="1095" height="535" key="DirDiffDialog" timestamp="1623325350963">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="93" y="93" width="1095" height="535" key="DirDiffDialog/0.0.1280.720@0.0.1280.720" timestamp="1623325350963" />
+    <state x="421" y="115" key="FileChooserDialogImpl" timestamp="1623730989515">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="421" y="115" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1623730989515" />
+    <state width="1237" height="209" key="GridCell.Tab.0.bottom" timestamp="1623853904089">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="209" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1623853904089" />
+    <state width="597" height="177" key="GridCell.Tab.0.bottom/0.0.640.480@0.0.640.480" timestamp="1623326103314" />
+    <state width="1237" height="209" key="GridCell.Tab.0.center" timestamp="1623853904089">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="209" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1623853904089" />
+    <state width="597" height="177" key="GridCell.Tab.0.center/0.0.640.480@0.0.640.480" timestamp="1623326103314" />
+    <state width="1237" height="209" key="GridCell.Tab.0.left" timestamp="1623853904089">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="209" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1623853904089" />
+    <state width="597" height="177" key="GridCell.Tab.0.left/0.0.640.480@0.0.640.480" timestamp="1623326103313" />
+    <state width="1237" height="209" key="GridCell.Tab.0.right" timestamp="1623853904089">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="209" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1623853904089" />
+    <state width="597" height="177" key="GridCell.Tab.0.right/0.0.640.480@0.0.640.480" timestamp="1623326103314" />
+    <state x="142" y="2" key="SettingsEditor" timestamp="1623826925919">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="142" y="2" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1623826925919" />
+    <state x="520" y="91" key="ftp.server.browser" timestamp="1623826916524">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="520" y="91" key="ftp.server.browser/0.0.1280.720@0.0.1280.720" timestamp="1623826916524" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1623832136969">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1623832136969" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://C:/ProgramData/Anaconda3/Lib/site-packages/sklearn/ensemble/_weight_boosting.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TMP_MIBS$Indemendent_binary.coverage" NAME="Indemendent_binary Coverage Results" MODIFIED="1623834782621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/TMP_MIBS$N_Fold_mul.coverage" NAME="N_Fold_mul Coverage Results" MODIFIED="1623849462935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/TMP_MIBS$N_Fold.coverage" NAME="N_Fold Coverage Results" MODIFIED="1623328963362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/TMP_MIBS$GetSamples.coverage" NAME="GetSamples Coverage Results" MODIFIED="1623207680644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/TMP_MIBS$Indemendent_mul.coverage" NAME="Indemendent_mul Coverage Results" MODIFIED="1623853904061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/TMP_MIBS$GetSamples_mul.coverage" NAME="GetSamples_mul Coverage Results" MODIFIED="1623847715978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+  </component>
+</project>

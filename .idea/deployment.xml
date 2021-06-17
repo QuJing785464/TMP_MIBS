@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="19qjnenu@210.47.18.43:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/19qjnenu/TMP-MIBS" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="19qjnenu@59.73.198.168:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/home/qujing" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="19qjnenu@59.73.198.168:22 (9)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="qjnenu@39.97.240.2:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/qjnenu/TMP-MIBS" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="qujing@59.73.198.168:22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="qujing@59.73.198.168:22 (5)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
